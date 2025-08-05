@@ -1,4 +1,4 @@
-[("mi documento personal"https://docs.google.com/document/d/1xDwlNL3hGY9_dYPv2wMxt86RpfGfn8XRaYagU0z180M/edit?usp=sharing")]
+Enlace con archivo personal [("mi documento personal"https://docs.google.com/document/d/1xDwlNL3hGY9_dYPv2wMxt86RpfGfn8XRaYagU0z180M/edit?usp=sharing")]
 # Educación del Preceptor en la República Argentina: Análisis Específico para la Provincia de Misiones
 
 ## Marco de la Educación Técnica y Encuadre Oficial
